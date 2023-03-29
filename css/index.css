@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+div#chat {
+    min-height: 80vh;
+    max-height: 80vh;
+    overflow: scroll;
+}
+
+input#sendMessage {
+    margin: 2vh;
+    width: 50vw;
+    font-size: 2vw;
+}
+
+button {
+    font-size: 2vw;
+}
